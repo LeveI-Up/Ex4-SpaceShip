@@ -14,7 +14,8 @@
 * הוספת Sprites 
 * הוספת נקודות חיים
 * אפשרות לשינוי כמות נקודות החיים שיש לשחקן
-* אנימציות
+* הוספת סאונד
+  * אנימציות
 * שינוי הסקריפטים הבאים:
 * [GameOverOnTrigger2D](https://github.com/LeveI-Up/Ex4-CarGame/blob/main/Assets/Scripts/GameOverOnTrigger2D.cs)
 
