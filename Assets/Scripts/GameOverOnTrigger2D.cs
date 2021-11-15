@@ -21,6 +21,7 @@ public class GameOverOnTrigger2D : MonoBehaviour
             health--;
             if (health == 0)
             {
+
                 StartCoroutine("Quit");
             }
         }
